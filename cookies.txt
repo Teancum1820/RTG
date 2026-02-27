@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.restorationtourgroup.com	TRUE	/	FALSE	1999999999	crumb	BZTZ+bN/j5f/M2VkMzc2YzgwNGFlOWY3NTBlZWQ1ODdmNDBiOGIy
+
